@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Meu CDC",
+    "slug": "meu-cdc-basic-data",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light"
+  }
+}
